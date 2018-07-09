@@ -1,6 +1,8 @@
 # STRIDE
 Curriculum for the Successful Transformation of a Research Idea into Data Engagement
 
+JP
+
 ## Schedule
 
 |Date|Start time|Location|Content|Assignment|Assignment due|
